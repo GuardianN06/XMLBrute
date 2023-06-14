@@ -29,7 +29,7 @@
 ## About The Project
 
 This is a program made to brute force passwords on wordpress logins using XMLRPC. <br> 
-Note: This will work only if the password is weak enough or the wordlist has that password in it.
+Note: This is more of a Proof-of-Concept as brute-forcing an account password would take a long time. <br> This will work only if the password is weak enough or the wordlist has that password in it.
 
 
 
