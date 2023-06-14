@@ -69,8 +69,7 @@ You input the link of the xmlrpc endpoint, you input the username, a wordlist (p
 
 
 
-
-https://github.com/GuardianN06/XMLBrute/assets/104389989/97165fcc-54c2-4284-a262-4eb828c91f87
+https://github.com/GuardianN06/XMLBrute/assets/104389989/88b6d0ca-689b-4d2f-abec-82301ccf1546
 
 
 
