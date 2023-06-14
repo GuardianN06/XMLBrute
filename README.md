@@ -23,7 +23,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+## DISCLAIMER
 
+The developer of this program is not responsible for any damages caused by the consumer's use of the program, including any immoral or unethical actions or consequences thereof.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
