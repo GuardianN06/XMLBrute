@@ -67,7 +67,11 @@ All that's needed is to clone the repo or download a ZIP copy, then run the xmlr
 
 You input the link of the xmlrpc endpoint, you input the username, a wordlist (preferably shorter) and the amount of threads (5 is recommended).
 
-https://github.com/GuardianN06/READMEtemplate/assets/104389989/2c689112-702b-4f4c-b422-6df38f1e3676
+
+
+
+https://github.com/GuardianN06/XMLBrute/assets/104389989/97165fcc-54c2-4284-a262-4eb828c91f87
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
