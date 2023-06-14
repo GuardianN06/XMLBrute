@@ -1,5 +1,5 @@
 # XMLBrute
-###A program made for brute-forcing WordPress logins using XMLRPC
+### A program made for brute-forcing WordPress logins using XMLRPC
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
