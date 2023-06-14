@@ -65,7 +65,7 @@ All that's needed is to clone the repo or download a ZIP copy, then run the xmlr
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You input the link of the xmlrpc endpoint, you input the username, a wordlist (preferably shorter) and the amount of threads (5 is recommended).
+You input the link of the xmlrpc endpoint, you input the username, a wordlist (preferably shorter) and the amount of threads (5 is recommended). <br> How you get the username is you do https://site.com/wp-json/wp/v2/users and this should supply you with a json format text. From that json, you should look for a variable after the "slug" object which is the username. Note, there can be multiple usernames on a single wordpress install.
 
 
 
